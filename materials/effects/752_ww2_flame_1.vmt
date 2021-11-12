@@ -1,0 +1,7 @@
+"UnlitGeneric"
+{
+	"$basetexture"		"effects\752_ww2_flame_1"
+	"$additive"		"1"
+	"$vertexcolor"	"1"
+	$nocull 1
+}

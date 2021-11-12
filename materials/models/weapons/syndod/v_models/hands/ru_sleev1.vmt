@@ -1,0 +1,5 @@
+"VertexLitGeneric"
+{
+	"$basetexture"	"MODELS\WEAPONS\syndod\V_MODELS\HANDS\ru_sleev1"
+	"$bumpmap"	"MODELS\WEAPONS\syndod\V_MODELS\HANDS\ru_sleev1_normal"
+}

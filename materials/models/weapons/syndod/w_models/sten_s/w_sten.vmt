@@ -1,0 +1,5 @@
+"vertexLitGeneric"
+{
+	"$basetexture" 				"models\weapons\syndod\w_models\sten_s\w_sten"
+	"$bumpmap" 				"models\weapons\syndod\w_models\sten_s\w_sten_normal"
+}
